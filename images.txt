@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/vastsa/bokebox:latest
-linuxserver/docker-obsidian:latest
+ollama/ollama:0.12.11
