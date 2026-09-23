@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/vastsa/bokebox:latest
 ollama/ollama:0.12.11
+mintplexlabs/anythingllm:latest
