@@ -9,3 +9,4 @@ ollama/ollama:0.12.11
 mintplexlabs/anythingllm:latest
 ghcr.io/hkuds/deeptutor:latest
 ghcr.io/cxfksword/douban-api-rs
+docker.io/huobao/huobao-drama:latest
