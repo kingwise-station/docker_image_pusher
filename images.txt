@@ -7,3 +7,4 @@ xhofe/alist:latest
 ghcr.io/vastsa/bokebox:latest
 ollama/ollama:0.12.11
 mintplexlabs/anythingllm:latest
+ghcr.io/hkuds/deeptutor:latest
